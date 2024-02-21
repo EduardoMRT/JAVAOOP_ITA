@@ -6,6 +6,5 @@ public class Main {
         CalculadoraIMC calculadoraIMC = new CalculadoraIMC();
         Pessoa Eduardo = new Pessoa("Eduardo", 18, 55, 1.70);
         calculadoraIMC.calcularIMC(Eduardo);
-        calculadoraIMC.teste();
-    }
+        
 }
